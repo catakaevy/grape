@@ -1,3 +1,4 @@
 # grape
 repository for grape team (SSG blog structure)
-![PowerPoint スライド ショー -  全体概要図（要件定義書）  2022_02_27 18_30_02](https://user-images.githubusercontent.com/87934975/155876899-a1108a74-b082-4ef0-9bc2-c3d2aef85120.png)
+
+![全体概要図（要件定義書） - PowerPoint 2022_02_27 18_54_43 (2)](https://user-images.githubusercontent.com/87934975/155877869-6e8c19ed-3f63-46ab-81b9-469337eb3163.png)
